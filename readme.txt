@@ -4,4 +4,4 @@ git try three
 Git has a mutable index called stage.
 Git tracks changes of files.
 okok
-creating a new branch is quick
+creating a new branch is quick & simple

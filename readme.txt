@@ -3,5 +3,5 @@ git is okS
 git try three
 Git has a mutable index called stage.
 Git tracks changes of files.
-okok
-creating a new branch is quick & simple
+okok 
+creating a new branch is quick AND simple
